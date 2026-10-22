@@ -29,7 +29,9 @@ Open your terminal nad install yt-dlp i used Python 3.12.9 and the command is:
     
     pip install yt-dlp
 
-The last on thing is:
+The last on thing is how to run the program:
+      
+      
       python3 video_downloader.py 
     
       
