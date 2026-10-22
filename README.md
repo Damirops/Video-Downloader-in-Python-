@@ -1,5 +1,4 @@
-# 📥  Video Downloader In Python on Windows 11
-Becauuse thi program is made on operating system Windows 11. 
+# 📥  Video Downloader  made in Python 
 
 A desktop applications for downloading YouTube videos in high quality (up 4k and 60 fps), built with **Python**, **Tikinter**, and **yt-dlp***
 
