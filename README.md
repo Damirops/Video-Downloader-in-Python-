@@ -13,7 +13,7 @@ A desktop applications for downloading YouTube videos in high quality (up 4k and
 --
 ##  🛠️ Prerequisites & Installation
 Before running the application, make sure you have following installed on your  installed on your system:
-1. **Python** (version 3.x recommended)
+1. **Python** (version 3.x recommended) or my version I use  (Python 3.12.9)
 2. **FFmpeg** (Required for merging video and audio formats correctly)
  
 ### 1. Installed FFmpeg(Windows)
@@ -24,7 +24,7 @@ open your terminal('cmd' or PowerShell) nad install FFmpeg via winget:
 
 
 
-Open your terminal nad install yt-dlp i used Python 3.12.9 and the command is:
+Open your terminal nad install yt-dlp I used Python 3.12.9 and the command is:
   
     
     pip install yt-dlp
