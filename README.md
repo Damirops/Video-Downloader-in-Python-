@@ -17,11 +17,15 @@ Before running the application, make sure you have following installed on your  
  
 ### 1. Installed FFmpeg(Windows)
 open your terminal('cmd' or PowerShell) nad install FFmpeg via winget:
-                wingetr install Gyan.FFmpeg
+                
+                
+               winget install Gyan.FFmpeg
 
 
 
 Open your terminal nad install yt-dlp i used Python 3.12.9 and the command is:
+  
+    
     pip install yt-dlp
 
 The last on thing is:
